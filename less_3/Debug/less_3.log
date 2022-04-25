@@ -1,0 +1,3 @@
+﻿  less_3.cpp
+E:\irox\project\less_3\less_3.cpp(6,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  less_3.vcxproj -> E:\irox\project\Debug\less_3.exe
